@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "country": "India",
+    "capital": "New Delhi",
+    "population": "1.4 billion",
+    "facts": [
+      "India is the world's largest democracy.",
+      "It is home to the Taj Mahal, one of the Seven Wonders of the World."
+    ]
+  },
+  {
+    "id": 2,
+    "country": "Japan",
+    "capital": "Tokyo",
+    "population": "125 million",
+    "facts": [
+      "Japan is made up of over 6,800 islands.",
+      "It has the world’s oldest monarchy."
+    ]
+  },
+  {
+    "id": 3,
+    "country": "Italy",
+    "capital": "Rome",
+    "population": "59 million",
+    "facts": [
+      "Home to the Vatican and the Colosseum.",
+      "Pizza originated in Naples, Italy."
+    ]
+  },
+  {
+    "id": 4,
+    "country": "France",
+    "capital": "Paris",
+    "population": "68 million",
+    "facts": [
+      "The Eiffel Tower was originally meant to be temporary.",
+      "France is the most visited country in the world."
+    ]
+  },
+  {
+    "id": 5,
+    "country": "Brazil",
+    "capital": "Brasília",
+    "population": "214 million",
+    "facts": [
+      "Amazon Rainforest covers around 60% of Brazil.",
+      "Football is a national obsession with 5 World Cup wins."
+    ]
+  },
+  {
+    "id": 6,
+    "country": "Australia",
+    "capital": "Canberra",
+    "population": "26 million",
+    "facts": [
+      "Australia has more kangaroos than people.",
+      "The Great Barrier Reef is the world’s largest coral reef system."
+    ]
+  },
+  {
+    "id": 7,
+    "country": "Canada",
+    "capital": "Ottawa",
+    "population": "39 million",
+    "facts": [
+      "Canada has the longest coastline in the world.",
+      "It’s home to more lakes than any other country."
+    ]
+  },
+  {
+    "id": 8,
+    "country": "Switzerland",
+    "capital": "Bern",
+    "population": "8.8 million",
+    "facts": [
+      "Known for its neutrality in wars.",
+      "Home to the famous Swiss Alps."
+    ]
+  },
+  {
+    "id": 9,
+    "country": "Norway",
+    "capital": "Oslo",
+    "population": "5.5 million",
+    "facts": [
+      "Famous for stunning fjords and northern lights.",
+      "Regularly ranks among the happiest countries."
+    ]
+  },
+  {
+    "id": 10,
+    "country": "New Zealand",
+    "capital": "Wellington",
+    "population": "5 million",
+    "facts": [
+      "Known for its breathtaking landscapes and adventure sports.",
+      "Filming location for 'The Lord of the Rings' trilogy."
+    ]
+  },
+  {
+    "id": 11,
+    "country": "Greece",
+    "capital": "Athens",
+    "population": "10.3 million",
+    "facts": [
+      "Birthplace of democracy and Western philosophy.",
+      "Famous for ancient ruins like the Parthenon."
+    ]
+  },
+  {
+    "id": 12,
+    "country": "South Africa",
+    "capital": "Pretoria (administrative)",
+    "population": "60 million",
+    "facts": [
+      "Home to Kruger National Park, one of Africa’s largest game reserves.",
+      "It has 3 capital cities: Pretoria, Cape Town, and Bloemfontein."
+    ]
+  }
+]
